@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+
+<head>
+	<title>QrCode Generator App</title>
+	<!-- Page files -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="jquery.js"></script>
+	<!-- App files -->
+	<link rel="stylesheet" type="text/css" href="qrcode_app/css/style.css">
+	<script src="qrcode_app/js/json2.js"></script>
+	<script src="qrcode_app/js/core.js"></script>
+	<script src="qrcode_app/js/qrcode.js"></script>
+	<script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+</head>
+
+<body>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+				<h1>QrCode Generator App</h1>
+			</div>
+			<div id="buy">
+				<a class="round large button buy" href="http://codecanyon.net/item/qrcode-generator-app/462044?ref=omarabid">
+				<span>
+					Buy It
+					<small>
+						$8
+					</small>
+				</span>
+				</a>
+			</div>
+			<div class="clear">
+			</div>
+		</div>
+		<div id="content">
+			<!-- QrCode APP Structure -->
+			<div id="qrcode_app">
+				<div id="display">
+					<h2>QrCode</h2>
+					<div id="output_img">
+						<img id="output_img_loading" src="qrcode_app/img/blank.png"/>
+						<img id="output_img_qr" src="" style="max-height: 230px; max-width: 230px" />
+					</div>
+					<h2>QrCode Link</h2>
+					<div id="output_link">
+						<input id="output_url"/>
+						<a href="#" id="select_url" class="css3_btn black">S</a>
+					</div>
+					<h2>Short URL</h2>
+					<div id="short_link">
+						<input id="short_url"/>
+						<a href="#" id="select_short_url" class="css3_btn black">S</a>
+					</div>
+					<div id="download" style="display:none">
+						<h2>Download</h2>
+						<ul>
+							<li id="download_png">
+								<img src="qrcode_app/img/png.png">
+							</li>
+							<li id="download_gif">
+								<img src="qrcode_app/img/gif.png">
+							</li>
+							<li id="download_jpg">
+								<img src="qrcode_app/img/jpg.png">
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div id="input">
+					<h2>Enter Content</h2>
+					<div id="types">
+						Type :
+						<select>
+							<option value="text">Text</option>
+							<option value="link">Link</option>
+							<option value="email">Email</option>
+							<option value="call">Call</option>
+							<option value="sms">SMS</option>
+							<option value="mecard">MeCard</option>
+							<option value="bizcard">BizCard</option>
+							<option value="paypal">PayPal</option>
+							<option value="location">Geolocation</option>
+							<option value="wifi">Wifi</option>
+							<option value="bookmark">Bookmark</option>
+						</select>
+					</div>
+					<div id="tabs">
+						<div id="text" class="tab">
+							<fieldset>
+								<label>
+									Text to encode
+									<span id="text_counter">(0)</span>
+								</label>
+								<textarea id="text_text">
+								</textarea>
+							</fieldset>
+						</div>
+						<div id="link" class="tab">
+							<fieldset>
+								<label>
+									Website URL
+								</label>
+								<input id="link_url">
+							</fieldset>
+						</div>
+						<div id="email" class="tab">
+							<fieldset>
+								<label>
+									Email
+								</label>
+								<input id="email_email">
+							</fieldset>
+							<fieldset>
+								<label>
+									Body
+								</label>
+								<textarea id="email_body">
+								</textarea>
+							</fieldset>
+						</div>
+						<div id="call" class="tab">
+							<fieldset>
+								<label>
+									Number
+								</label>
+								<input id="call_number"/>
+							</fieldset>
+						</div>
+						<div id="sms" class="tab">
+							<fieldset>
+								<label>
+									Number
+								</label>
+								<input id="sms_number"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Message
+								</label>
+								<textarea id="sms_message">
+								</textarea>
+							</fieldset>
+						</div>
+						<div id="mecard" class="tab">
+							<fieldset>
+								<label>
+									Name
+								</label>
+								<input id="mecard_name"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Number
+								</label>
+								<input id="mecard_number"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Email
+								</label>
+								<input id="mecard_email"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Address
+								</label>
+								<input id="mecard_address"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Memo
+								</label>
+								<input id="mecard_memo"/>
+							</fieldset>
+						</div>
+						<div id="bizcard" class="tab">
+							<fieldset>
+								<label>
+									First Name
+								</label>
+								<input id="bizcard_firstname"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Last Name
+								</label>
+								<input id="bizcard_lastname"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Company
+								</label>
+								<input id="bizcard_company"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Job
+								</label>
+								<input id="bizcard_job"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Phone
+								</label>
+								<input id="bizcard_phone"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Address
+								</label>
+								<input id="bizcard_address"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Email
+								</label>
+								<input id="bizcard_email"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									WebSite
+								</label>
+								<input id="bizcard_website"/>
+							</fieldset>
+						</div>
+						<div id="paypal" class="tab">
+							<fieldset>
+								<label>
+									Email
+								</label>
+								<input id="paypal_email"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Description
+								</label>
+								<input id="paypal_description"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Amount
+								</label>
+								<input id="paypal_amount"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Currency
+								</label>
+								<input id="paypal_currency"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Quantity
+								</label>
+								<input id="paypal_quantity"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Item number
+								</label>
+								<input id="paypal_item_number"/>
+							</fieldset>
+						</div>
+						<div id="location" class="tab">
+							Latitude
+							<input id="location_latitude" style="width:60px;"/>
+							<strong>|</strong> Longitude
+							<input id="location_longitude"  style="width:60px;"/>
+							<div id="map_canvas" style="height:180px; width:280px; overflow-x: hidden; overflow-y: hidden; position: relative;">
+							</div>
+						</div>
+						<div id="wifi" class="tab">
+							<fieldset>
+								<label>
+									SSID
+								</label>
+								<input id="wifi_SSID"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Network type
+								</label>
+								<input id="wifi_network_type"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									Password
+								</label>
+								<input id="wifi_password"/>
+							</fieldset>
+						</div>
+						<div id="bookmark" class="tab">
+							<fieldset>
+								<label>
+									Title
+								</label>
+								<input id="bookmark_title"/>
+							</fieldset>
+							<fieldset>
+								<label>
+									URL
+								</label>
+								<input id="bookmark_url"/>
+							</fieldset>
+						</div>
+					</div>
+					<h2>Configure</h2>
+					<div id="configure">
+						<ul>
+							<li>
+								<label>
+									Size
+								</label>
+								<input id="configure_height" type="text" style="width:40px;"/>
+								X
+								<input id="configure_width" type="text"  style="width:40px;"/>
+							</li>
+							<li>
+								<label>
+									Encoding
+								</label>
+								<select id="configure_encoding">
+									<option value="UTF-8">UTF-8</option>
+									<option value="Shift_JIS">Shift_JIS</option>
+									<option value="ISO-8859-1">ISO-8859-1</option>
+								</select>
+							</li>
+							<li>
+								<label>
+									Correction
+								</label>
+								<select id="configure_correction">
+									<option value="L">L</option>
+									<option value="M">M</option>
+									<option value="Q">Q</option>
+									<option value="H">H</option>
+								</select>
+							</li>
+						</ul>
+					</div>
+					<div id="qr_color" style="display:none">
+						<h2>QrCode Color</h2>
+						<fieldset>
+							<label>
+								Foreground
+							</label>
+							<input id="foreground_color" type="text" value="#000000"/>
+						</fieldset>
+						<fieldset>
+							<label>
+								Background
+							</label>
+							<input id="background_color" type="text" value="#FFFFFF"/>
+						</fieldset>
+					</div>
+					<div class="clear">
+					</div>
+					<div>
+						<a href="#" id="generate_qr" class="css3_btn black">Generate</a>
+					</div>
+				</div>
+				<div class="clear">
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<p>
+			QrCode Generator App (c)
+		</p>
+	</div>
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+
+		_gaq.push(['_setAccount', 'UA-16484923-2']);
+
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+
+			var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+
+		})();
+	</script>
+</body>

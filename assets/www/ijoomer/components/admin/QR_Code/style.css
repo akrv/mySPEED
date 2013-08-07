@@ -1,0 +1,137 @@
+@import url(reset.css);
+/*@face-font*/
+@font-face {
+	font-family: Istok;
+	src: url('font/istok.eot');
+	src: url('font/istok.eot?#iefix') format('embedded-opentype'), url('font/istok.woff') format('woff'), url('font/istok.ttf') format('truetype'), url('font/istok.svg#webfont') format('svg');
+}
+/*Buy Button*/
+.button {
+	font: 13px/1.5 Arial, Helvetica, "Helvetica Neue", Verdana, sans-serif;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	/*border-radius: 5px
+	 -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.50) -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.50)
+	 box-shadow: 0 1px 3px rgba(0, 0, 0, 0.50)*/
+	background: #222222 url(img/button-overlay.png) repeat-x;
+	border: 1px solid rgba(0, 0, 0, 0.25);
+	color: #FFFFFF !important;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 1;
+	overflow: visible;
+	padding: 5px 15px 6px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+	width: auto;
+	text-align: center;
+}
+.button:hover {
+	background: #111111;
+	color: #FFFFFF;
+}
+.button:active {
+	background: #242424;
+}
+.buy.large.button {
+	background-image: url(img/tall-button-overlay.png);
+	border: 2px solid #363636 !important;
+	-moz-border-radius: 30px !important;
+	-webkit-border-radius: 30px !important;
+	/*border-radius: 30px!important*/
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 1) !important;
+	margin-right: 50px;
+}
+.buy.large SPAN {
+	background: url(img/lock-outset.png) no-repeat 0 12px;
+	font-size: 24px !important;
+	padding: 11px 20px 13px 30px !important;
+	margin: 0 -50px 0 30px;
+}
+.buy.large SPAN SMALL {
+	background: url(img/price-tag.png) no-repeat top center;
+	vertical-align: middle;
+	padding: 7px 21px 12px 32px;
+	margin-left: 6px;
+	font-size: 14px;
+}
+.round.button {
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	/*border-radius: 15px*/
+	background-image: url(img/round-button-overlay.png);
+	border: 1px solid rgba(0, 0, 0, 0.25);
+	font-size: 13px;
+	padding: 0;
+}
+.round.button SPAN {
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	/*border-radius: 14px*/
+	display: block;
+	line-height: 1;
+	padding: 4px 15px 6px;
+}
+.large.round.button {
+	-moz-border-radius: 18px;
+	-webkit-border-radius: 18px;
+	/*border-radius: 18px*/
+	background-position: left bottom;
+}
+.large.round.button SPAN {
+	-moz-border-radius: 17px;
+	-webkit-border-radius: 17px;
+	/*border-radius: 17px*/
+	font-size: 14px;
+	padding: 7px 20px 9px;
+}
+.large.tall.round.button SMALL {
+	display: block;
+	margin-top: 5px;
+}
+/*Body*/
+BODY {
+	background-color: #81B8C4;
+}
+/*Container*/
+#main {
+	width: 820px;
+	background-color: #FFFFFF;
+	margin: 50px auto 0;
+	border: 5px solid white;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.80);
+	-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.80);
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.80);
+}
+#footer {
+	margin: 13px auto 0;
+	width: 200px;
+	font-family: Helvetica;
+	font-size: 12px;
+	color: #424242;
+}
+/*Header*/
+#header {
+	height: 60px;
+	padding: 23px;
+}
+#header #logo {
+	float: left;
+	padding-left: 15px;
+}
+#header #buy {
+	float: right;
+	padding-right: 15px;
+}
+H1 {
+	font: 42px Istok;
+	color: #222;
+	text-shadow: 0px 1px 2px #555;
+}
+/*QrCode App*/
+#content {
+	height: 570px;
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="plugins" method="upgrade">
+	<name>iUser</name>
+	<version>1.0.0</version>
+	<plugin_classname>iuser</plugin_classname>
+	<plugin_option>com_user</plugin_option>
+	<files>
+		<filename plugins="iuser">iuser.php</filename>
+		<filename plugins="iuser">iuser.cfg.php</filename>	
+		<filename plugins="iuser">iusermain.php</filename>
+		<filename plugins="iuser">config.php</filename>
+	</files>
+</install>

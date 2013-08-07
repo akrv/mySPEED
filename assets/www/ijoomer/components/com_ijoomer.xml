@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://www.joomla.org/xml/dtd/1.5/component-install.dtd">
+<install type="component" version="1.5.0"  method="upgrade">
+	<name>ijoomer</name>
+	<creationDate>30-Apr-2011</creationDate>   
+	<author>Tasol</author>
+	<authorEmail>testing.tasol@gmail.com</authorEmail>
+	<authorUrl>www.tasolglobal.com</authorUrl>
+	<copyright>Copyright (C) 2011. All rights reserved.</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.1 Beta</version>
+	<description>iJoomer Component</description>
+	<installfile>install.ijoomer.php</installfile>
+	<uninstallfile>uninstall.ijoomer.php</uninstallfile>
+	<install>
+		<sql>
+			<file driver="mysql" charset="utf8">install.mysql.utf8.sql</file>
+		</sql>
+	</install>
+	<uninstall>
+		<sql>
+			<file driver="mysql" charset="utf8">uninstall.mysql.utf8.sql</file>
+		</sql>
+	</uninstall>
+	<files folder="site">
+		<filename>index.html</filename>	
+		<filename>ijoomer.php</filename>
+		<filename>config.cfg.php</filename>
+		<folder>assets</folder>
+		<folder>controllers</folder>
+		<folder>certificates</folder>
+		<folder>models</folder>
+		<folder>class</folder>
+		<folder>views</folder>
+		<folder>helpers</folder>
+		<folder>plugins</folder>
+	</files>
+	<administration>
+		<menu img="components/com_ijoomer/assets/images/ijoomer.png" >iJoomer</menu>
+		<submenu>
+			<menu img="components/com_ijoomer/assets/images/plugins_16.png" view="plugins">Plugins</menu>
+			<menu img="components/com_ijoomer/assets/images/configuration_16.png" view="config">Global Configuration</menu>
+			<menu img="components/com_ijoomer/assets/images/application-manager_16.png" view="application_manager">Application Screen Manager</menu>
+			<menu img="components/com_ijoomer/assets/images/application-manager_16.png" view="app_module">Application Modules</menu>
+			<menu img="components/com_ijoomer/assets/images/application-manager_16.png" view="qrcode">QR Code</menu>
+			<menu img="components/com_ijoomer/assets/images/application-manager_16.png" view="app_push_notification">Push Notification</menu>
+		</submenu>	
+		<files folder="admin">	 
+			<filename>index.html</filename>	
+			<filename>ijoomer.php</filename>
+			<filename>install.mysql.utf8.sql</filename>
+			<filename>uninstall.mysql.utf8.sql</filename>
+			<folder>controllers</folder>
+			<folder>install</folder>
+			<folder>assets</folder>
+			<folder>qrimages</folder>
+			<folder>models</folder>
+			<folder>helpers</folder>
+			<folder>tables</folder>	
+			<folder>views</folder>
+			<folder>QR_Code</folder>
+											 
+		</files>
+	<languages folder="admin/languages">
+		<language tag="en-GB">en-GB.com_ijoomer.ini</language>
+	</languages>
+	</administration>
+</install>

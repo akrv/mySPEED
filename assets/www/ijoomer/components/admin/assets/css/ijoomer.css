@@ -1,0 +1,19 @@
+/* ijoomer.css */
+.icon-48-plugins_48 {
+    background-image: url("../images/plugins_48.png");
+}
+.icon-48-config_48 {
+    background-image: url("../images/configuration_48.png");
+}
+.icon-48-application-manager_48 {
+    background-image: url("../images/application-manager_48.png");
+}
+/* hack for joomla 1.6 radion button label */
+fieldset label, fieldset span.faux-label{
+clear:none !important;
+margin: 5px 10px 0 0 !important;
+}
+.component td{
+background-color: #f9e9e9 !important;
+}
+
