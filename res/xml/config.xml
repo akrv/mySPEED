@@ -23,11 +23,14 @@
     <name>mySPEED</name>
 
     <description>
-        A official mobile application collectively for SPEED, 9th GSF and WEEF
+        A official mobile application collectively for SPEED, 9th GSF and WEEF.
     </description>
 
     <author href="http://worldspeed.org" email="aswinkarthik.rv@worldspeed.org">
         External Affairs Office - SPEED
+    </author>
+    <author href="http://worldspeed.org" email="rake.eks@worldspeed.org">
+        App Administrator - SPEED
     </author>
 
     <access origin="*"/>
@@ -44,6 +47,7 @@
       <preference name="InAppBrowserStorageEnabled" value="true" />
       <preference name="disallowOverscroll" value="true" />
     -->
+
 
     <feature name="App">
       <param name="android-package" value="org.apache.cordova.App"/>
@@ -104,5 +108,7 @@
     </feature>
     <!-- Deprecated plugins element. Remove in 3.0 -->
     <plugins>
+    	<!-- <plugin name="com.adobe.plugins.pushplugin" /> -->
+    	<plugin name="PushPlugin" value="org.plugin.gcm.PushPlugin" />
     </plugins>
 </widget>
