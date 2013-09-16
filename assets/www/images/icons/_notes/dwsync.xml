@@ -1,43 +1,103 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="alert.png" server="C:/Users/Rakesh/Rake Site/" local="130107399216035156" remote="130107399210000000" />
-<file name="approved.png" server="C:/Users/Rakesh/Rake Site/" local="130107399218173828" remote="130107399210000000" />
-<file name="attention.png" server="C:/Users/Rakesh/Rake Site/" local="130107399221523437" remote="130107399220000000" />
-<file name="camera.png" server="C:/Users/Rakesh/Rake Site/" local="130107399220527343" remote="130107399220000000" />
-<file name="cart.png" server="C:/Users/Rakesh/Rake Site/" local="130107399223349609" remote="130107399220000000" />
-<file name="doc.png" server="C:/Users/Rakesh/Rake Site/" local="130107399223388671" remote="130107399220000000" />
-<file name="download.png" server="C:/Users/Rakesh/Rake Site/" local="130107399225800781" remote="130107399220000000" />
-<file name="media.png" server="C:/Users/Rakesh/Rake Site/" local="130107399225468750" remote="130107399220000000" />
-<file name="note.png" server="C:/Users/Rakesh/Rake Site/" local="130107399228554687" remote="130107399220000000" />
-<file name="notice.png" server="C:/Users/Rakesh/Rake Site/" local="130107399228554687" remote="130107399220000000" />
-<file name="approved-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399231210937" remote="130107399230000000" />
-<file name="alert-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399230634765" remote="130107399230000000" />
-<file name="attention-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399232578125" remote="130107399230000000" />
-<file name="camera-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399232871093" remote="130107399230000000" />
-<file name="cart-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399234707031" remote="130107399230000000" />
-<file name="doc-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399234843750" remote="130107399230000000" />
-<file name="download-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399238466796" remote="130107399230000000" />
-<file name="media-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399239726562" remote="130107399230000000" />
-<file name="note-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399241289062" remote="130107399240000000" />
-<file name="notice-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399241855468" remote="130107399240000000" />
-<file name="alert.png" server="C:/wamp/www/SPEED/" local="130107399216035156" remote="130107399210000000" />
-<file name="approved.png" server="C:/wamp/www/SPEED/" local="130107399218173828" remote="130107399210000000" />
-<file name="attention.png" server="C:/wamp/www/SPEED/" local="130107399221523437" remote="130107399220000000" />
-<file name="camera.png" server="C:/wamp/www/SPEED/" local="130107399220527343" remote="130107399220000000" />
-<file name="cart.png" server="C:/wamp/www/SPEED/" local="130107399223349609" remote="130107399220000000" />
-<file name="doc.png" server="C:/wamp/www/SPEED/" local="130107399223388671" remote="130107399220000000" />
-<file name="download.png" server="C:/wamp/www/SPEED/" local="130107399225800781" remote="130107399220000000" />
-<file name="media.png" server="C:/wamp/www/SPEED/" local="130107399225468750" remote="130107399220000000" />
-<file name="note.png" server="C:/wamp/www/SPEED/" local="130107399228554687" remote="130107399220000000" />
-<file name="notice.png" server="C:/wamp/www/SPEED/" local="130107399228554687" remote="130107399220000000" />
-<file name="approved-icon.png" server="C:/wamp/www/SPEED/" local="130107399231210937" remote="130107399230000000" />
-<file name="alert-icon.png" server="C:/wamp/www/SPEED/" local="130107399230634765" remote="130107399230000000" />
-<file name="attention-icon.png" server="C:/wamp/www/SPEED/" local="130107399232578125" remote="130107399230000000" />
-<file name="camera-icon.png" server="C:/wamp/www/SPEED/" local="130107399232871093" remote="130107399230000000" />
-<file name="cart-icon.png" server="C:/wamp/www/SPEED/" local="130107399234707031" remote="130107399230000000" />
-<file name="doc-icon.png" server="C:/wamp/www/SPEED/" local="130107399234843750" remote="130107399230000000" />
-<file name="download-icon.png" server="C:/wamp/www/SPEED/" local="130107399238466796" remote="130107399230000000" />
-<file name="media-icon.png" server="C:/wamp/www/SPEED/" local="130107399239726562" remote="130107399230000000" />
-<file name="note-icon.png" server="C:/wamp/www/SPEED/" local="130107399241289062" remote="130107399240000000" />
-<file name="notice-icon.png" server="C:/wamp/www/SPEED/" local="130107399241855468" remote="130107399240000000" />
+<file name="alert.png" server="C:/Users/Rakesh/Rake Site/" local="130107399216035156" remote="130107399210000000" Dst="-1" />
+<file name="approved.png" server="C:/Users/Rakesh/Rake Site/" local="130107399218173828" remote="130107399210000000" Dst="-1" />
+<file name="attention.png" server="C:/Users/Rakesh/Rake Site/" local="130107399221523437" remote="130107399220000000" Dst="-1" />
+<file name="camera.png" server="C:/Users/Rakesh/Rake Site/" local="130107399220527343" remote="130107399220000000" Dst="-1" />
+<file name="cart.png" server="C:/Users/Rakesh/Rake Site/" local="130107399223349609" remote="130107399220000000" Dst="-1" />
+<file name="doc.png" server="C:/Users/Rakesh/Rake Site/" local="130107399223388671" remote="130107399220000000" Dst="-1" />
+<file name="download.png" server="C:/Users/Rakesh/Rake Site/" local="130107399225800781" remote="130107399220000000" Dst="-1" />
+<file name="media.png" server="C:/Users/Rakesh/Rake Site/" local="130107399225468750" remote="130107399220000000" Dst="-1" />
+<file name="note.png" server="C:/Users/Rakesh/Rake Site/" local="130107399228554687" remote="130107399220000000" Dst="-1" />
+<file name="notice.png" server="C:/Users/Rakesh/Rake Site/" local="130107399228554687" remote="130107399220000000" Dst="-1" />
+<file name="approved-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399231210937" remote="130107399230000000" Dst="-1" />
+<file name="alert-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399230634765" remote="130107399230000000" Dst="-1" />
+<file name="attention-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399232578125" remote="130107399230000000" Dst="-1" />
+<file name="camera-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399232871093" remote="130107399230000000" Dst="-1" />
+<file name="cart-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399234707031" remote="130107399230000000" Dst="-1" />
+<file name="doc-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399234843750" remote="130107399230000000" Dst="-1" />
+<file name="download-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399238466796" remote="130107399230000000" Dst="-1" />
+<file name="media-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399239726562" remote="130107399230000000" Dst="-1" />
+<file name="note-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399241289062" remote="130107399240000000" Dst="-1" />
+<file name="notice-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399241855468" remote="130107399240000000" Dst="-1" />
+<file name="alert.png" server="C:/wamp/www/SPEED/" local="130107399216035156" remote="130107399210000000" Dst="-1" />
+<file name="approved.png" server="C:/wamp/www/SPEED/" local="130107399218173828" remote="130107399210000000" Dst="-1" />
+<file name="attention.png" server="C:/wamp/www/SPEED/" local="130107399221523437" remote="130107399220000000" Dst="-1" />
+<file name="camera.png" server="C:/wamp/www/SPEED/" local="130107399220527343" remote="130107399220000000" Dst="-1" />
+<file name="cart.png" server="C:/wamp/www/SPEED/" local="130107399223349609" remote="130107399220000000" Dst="-1" />
+<file name="doc.png" server="C:/wamp/www/SPEED/" local="130107399223388671" remote="130107399220000000" Dst="-1" />
+<file name="download.png" server="C:/wamp/www/SPEED/" local="130107399225800781" remote="130107399220000000" Dst="-1" />
+<file name="media.png" server="C:/wamp/www/SPEED/" local="130107399225468750" remote="130107399220000000" Dst="-1" />
+<file name="note.png" server="C:/wamp/www/SPEED/" local="130107399228554687" remote="130107399220000000" Dst="-1" />
+<file name="notice.png" server="C:/wamp/www/SPEED/" local="130107399228554687" remote="130107399220000000" Dst="-1" />
+<file name="approved-icon.png" server="C:/wamp/www/SPEED/" local="130107399231210937" remote="130107399230000000" Dst="-1" />
+<file name="alert-icon.png" server="C:/wamp/www/SPEED/" local="130107399230634765" remote="130107399230000000" Dst="-1" />
+<file name="attention-icon.png" server="C:/wamp/www/SPEED/" local="130107399232578125" remote="130107399230000000" Dst="-1" />
+<file name="camera-icon.png" server="C:/wamp/www/SPEED/" local="130107399232871093" remote="130107399230000000" Dst="-1" />
+<file name="cart-icon.png" server="C:/wamp/www/SPEED/" local="130107399234707031" remote="130107399230000000" Dst="-1" />
+<file name="doc-icon.png" server="C:/wamp/www/SPEED/" local="130107399234843750" remote="130107399230000000" Dst="-1" />
+<file name="download-icon.png" server="C:/wamp/www/SPEED/" local="130107399238466796" remote="130107399230000000" Dst="-1" />
+<file name="media-icon.png" server="C:/wamp/www/SPEED/" local="130107399239726562" remote="130107399230000000" Dst="-1" />
+<file name="note-icon.png" server="C:/wamp/www/SPEED/" local="130107399241289062" remote="130107399240000000" Dst="-1" />
+<file name="notice-icon.png" server="C:/wamp/www/SPEED/" local="130107399241855468" remote="130107399240000000" Dst="-1" />
+<file name="alert.png" server="C:/wamp/www" local="130203563907950238" remote="130203563900000000" Dst="0" />
+<file name="approved.png" server="C:/wamp/www" local="130203563908200268" remote="130203563900000000" Dst="0" />
+<file name="attention.png" server="C:/wamp/www" local="130203563908260275" remote="130203563900000000" Dst="0" />
+<file name="camera.png" server="C:/wamp/www" local="130203563908300283" remote="130203563900000000" Dst="0" />
+<file name="cart.png" server="C:/wamp/www" local="130203563908350286" remote="130203563900000000" Dst="0" />
+<file name="doc.png" server="C:/wamp/www" local="130203563908430307" remote="130203563900000000" Dst="0" />
+<file name="download.png" server="C:/wamp/www" local="130203563908470325" remote="130203563900000000" Dst="0" />
+<file name="media.png" server="C:/wamp/www" local="130203563908510310" remote="130203563900000000" Dst="0" />
+<file name="note.png" server="C:/wamp/www" local="130203563908580321" remote="130203563900000000" Dst="0" />
+<file name="notice.png" server="C:/wamp/www" local="130203563908620320" remote="130203563900000000" Dst="0" />
+<file name="approved-icon.png" server="C:/wamp/www" local="130203563907980246" remote="130203563900000000" Dst="0" />
+<file name="alert-icon.png" server="C:/wamp/www" local="130203563907920239" remote="130203563900000000" Dst="0" />
+<file name="attention-icon.png" server="C:/wamp/www" local="130203563908230271" remote="130203563900000000" Dst="0" />
+<file name="camera-icon.png" server="C:/wamp/www" local="130203563908280279" remote="130203563900000000" Dst="0" />
+<file name="cart-icon.png" server="C:/wamp/www" local="130203563908340282" remote="130203563900000000" Dst="0" />
+<file name="doc-icon.png" server="C:/wamp/www" local="130203563908400294" remote="130203563900000000" Dst="0" />
+<file name="download-icon.png" server="C:/wamp/www" local="130203563908450307" remote="130203563900000000" Dst="0" />
+<file name="media-icon.png" server="C:/wamp/www" local="130203563908500319" remote="130203563900000000" Dst="0" />
+<file name="note-icon.png" server="C:/wamp/www" local="130203563908540309" remote="130203563900000000" Dst="0" />
+<file name="notice-icon.png" server="C:/wamp/www" local="130203563908600339" remote="130203563900000000" Dst="0" />
+<file name="alert.png" server="C:/wamp/www/" local="130203563907950238" remote="130203563900000000" Dst="0" />
+<file name="approved.png" server="C:/wamp/www/" local="130203563908200268" remote="130203563900000000" Dst="0" />
+<file name="attention.png" server="C:/wamp/www/" local="130203563908260275" remote="130203563900000000" Dst="0" />
+<file name="camera.png" server="C:/wamp/www/" local="130203563908300283" remote="130203563900000000" Dst="0" />
+<file name="cart.png" server="C:/wamp/www/" local="130203563908350286" remote="130203563900000000" Dst="0" />
+<file name="doc.png" server="C:/wamp/www/" local="130203563908430307" remote="130203563900000000" Dst="0" />
+<file name="download.png" server="C:/wamp/www/" local="130203563908470325" remote="130203563900000000" Dst="0" />
+<file name="media.png" server="C:/wamp/www/" local="130203563908510310" remote="130203563900000000" Dst="0" />
+<file name="note.png" server="C:/wamp/www/" local="130203563908580321" remote="130203563900000000" Dst="0" />
+<file name="notice.png" server="C:/wamp/www/" local="130203563908620320" remote="130203563900000000" Dst="0" />
+<file name="approved-icon.png" server="C:/wamp/www/" local="130203563907980246" remote="130203563900000000" Dst="0" />
+<file name="alert-icon.png" server="C:/wamp/www/" local="130203563907920239" remote="130203563900000000" Dst="0" />
+<file name="attention-icon.png" server="C:/wamp/www/" local="130203563908230271" remote="130203563900000000" Dst="0" />
+<file name="camera-icon.png" server="C:/wamp/www/" local="130203563908280279" remote="130203563900000000" Dst="0" />
+<file name="cart-icon.png" server="C:/wamp/www/" local="130203563908340282" remote="130203563900000000" Dst="0" />
+<file name="doc-icon.png" server="C:/wamp/www/" local="130203563908400294" remote="130203563900000000" Dst="0" />
+<file name="download-icon.png" server="C:/wamp/www/" local="130203563908450307" remote="130203563900000000" Dst="0" />
+<file name="media-icon.png" server="C:/wamp/www/" local="130203563908500319" remote="130203563900000000" Dst="0" />
+<file name="note-icon.png" server="C:/wamp/www/" local="130203563908540309" remote="130203563900000000" Dst="0" />
+<file name="notice-icon.png" server="C:/wamp/www/" local="130203563908600339" remote="130203563900000000" Dst="0" />
+<file name="alert.png" server="C:/wamp/www/mySPEED/" local="130203563907950238" remote="130203563900000000" Dst="0" />
+<file name="approved.png" server="C:/wamp/www/mySPEED/" local="130203563908200268" remote="130203563900000000" Dst="0" />
+<file name="attention.png" server="C:/wamp/www/mySPEED/" local="130203563908260275" remote="130203563900000000" Dst="0" />
+<file name="camera.png" server="C:/wamp/www/mySPEED/" local="130203563908300283" remote="130203563900000000" Dst="0" />
+<file name="cart.png" server="C:/wamp/www/mySPEED/" local="130203563908350286" remote="130203563900000000" Dst="0" />
+<file name="doc.png" server="C:/wamp/www/mySPEED/" local="130203563908430307" remote="130203563900000000" Dst="0" />
+<file name="download.png" server="C:/wamp/www/mySPEED/" local="130203563908470325" remote="130203563900000000" Dst="0" />
+<file name="media.png" server="C:/wamp/www/mySPEED/" local="130203563908510310" remote="130203563900000000" Dst="0" />
+<file name="note.png" server="C:/wamp/www/mySPEED/" local="130203563908580321" remote="130203563900000000" Dst="0" />
+<file name="notice.png" server="C:/wamp/www/mySPEED/" local="130203563908620320" remote="130203563900000000" Dst="0" />
+<file name="approved-icon.png" server="C:/wamp/www/mySPEED/" local="130203563907980246" remote="130203563900000000" Dst="0" />
+<file name="alert-icon.png" server="C:/wamp/www/mySPEED/" local="130203563907920239" remote="130203563900000000" Dst="0" />
+<file name="attention-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908230271" remote="130203563900000000" Dst="0" />
+<file name="camera-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908280279" remote="130203563900000000" Dst="0" />
+<file name="cart-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908340282" remote="130203563900000000" Dst="0" />
+<file name="doc-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908400294" remote="130203563900000000" Dst="0" />
+<file name="download-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908450307" remote="130203563900000000" Dst="0" />
+<file name="media-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908500319" remote="130203563900000000" Dst="0" />
+<file name="note-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908540309" remote="130203563900000000" Dst="0" />
+<file name="notice-icon.png" server="C:/wamp/www/mySPEED/" local="130203563908600339" remote="130203563900000000" Dst="0" />
 </dwsync>

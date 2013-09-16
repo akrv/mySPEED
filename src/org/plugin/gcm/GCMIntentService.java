@@ -2,7 +2,6 @@ package org.plugin.gcm;
 
 import java.util.List;
 
-import com.google.android.gcm.GCMBaseIntentService;
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -19,6 +18,8 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
+
+import com.google.android.gcm.GCMBaseIntentService;
 
 @SuppressLint("NewApi")
 public class GCMIntentService extends GCMBaseIntentService {

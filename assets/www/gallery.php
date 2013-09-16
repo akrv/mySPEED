@@ -142,75 +142,64 @@
                 <span class="left square-button">+</span>
                 <span class="left button-label">contact</span>
                 <div class="clear"></div>
-            </a>            
-        </div>        <!-- /header -->
-    
-	<div data-role="content" data-theme="a" class="minus-shadow" disable-back-button="true">
-		<div class="white-content-box">
-			<script>
-				$(document).ready(function() {
-					$(".page-title").text("Home");
-				});
-			</script>
-			<div class="cherry-slider only-tablet" style="height: 150px;">
-            	<div anim="blind" anim-speed="700" anim-direction="left" anim-position-left="0" anim-position-top="20" class="anim-item"><p class="little-padding aa">STUDENT'S</p></div>
-                <div anim="blind" anim-speed="700" anim-direction="left" anim-position-left="0" anim-position-top="40" class="anim-item"><p class="little-padding aa">PLATFORM FOR</p></div>
-                <div anim="drop" anim-speed="700" anim-direction="down" anim-position-left="0" anim-position-top="68" class="anim-item"><p class="little-padding white-bg gray-border">ENGINEERING EDUCATION</p></div>
-                <div anim="drop" anim-speed="700" anim-direction="down" anim-position-left="0" anim-position-top="90" class="anim-item"><p class="little-padding white-bg gray-border">DEVELOPMENT</p></div>
-    <div anim="drop" anim-speed="500" anim-direction="down" anim-position-right="0" anim-position-top="20" class="anim-item">  <img src="images/logo_buld.png" width="180" height="90" /></div>
-				
-				<div anim="fade" anim-speed="3200" class="anim-item wait-item"></div>
-				<div anim-action="break" anim="fade" anim-speed="700" class="anim-item"></div>
-				<div anim="fade" anim-speed="700" class="anim-item wait-item"></div>
-				
-<div anim="blind" anim-speed="700" anim-direction="left" anim-position-left="0" anim-position-top="20" class="anim-item"><p class="little-padding aa">STUDENT'S</p></div>
-                <div anim="blind" anim-speed="700" anim-direction="left" anim-position-left="0" anim-position-top="40" class="anim-item"><p class="little-padding aa">PLATFORM FOR</p></div>
-                <div anim="drop" anim-speed="700" anim-direction="down" anim-position-left="0" anim-position-top="68" class="anim-item"><p class="little-padding white-bg gray-border">ENGINEERING EDUCATION</p></div>
-                <div anim="drop" anim-speed="700" anim-direction="down" anim-position-left="0" anim-position-top="90" class="anim-item"><p class="little-padding white-bg gray-border">DEVELOPMENT</p></div>
-    <div anim="drop" anim-speed="500" anim-direction="down" anim-position-right="0" anim-position-top="20" class="anim-item">  <img src="images/logo_buld.png" width="180" height="90" /></div>
-				
-  <div anim="fade" anim-speed="2000" class="anim-item wait-item"></div>
-				<div anim-action="break" anim="fade" anim-speed="700" class="anim-item"></div>
-				<div anim-action="restart" anim="fade" anim-speed="700" class="anim-item wait-item"></div>
-			</div>
-            
-           <h3>Testimonials</h3>
-            
-          <h2 class="only-tablet" align="justify"><strong>JAVIE SSOZI - SPEED 2010 SCHOLARSHIP RECIPIENT</strong></h2>
-          <p align="justify" style="text-align: center"><span class="large-text only-tablet"><img src="images/javie.jpg" width="350" height="350" alt="ssozi"></span></p>
-          <p class="large-text only-tablet" align="justify">Hello,
-			<br>
-				My name is Javie Ssozi. I hold a Bachelor of Science in Computer Science. 
-			<br>
-				In 2010 I read about the 7th Global Students Forum (GSF) on the SPEED website. I applied for a scholarship to participate in the forum in Singapore. 
-       	  <ul class="nav-list">
-           	<li><a href="ssozi.php">Continue Reading...<span>&gt;</span></a></li>
-		  </ul>
-            </p>
-            <br>
-
-          <h2 class="only-tablet" align="justify"><strong>MERCY GLORIA - SPEED 2012 SCHOLARSHIP RECIPIENT</strong></h2>
-			<p align="justify" class="large-text only-tablet" style="text-align: center"><img src="images/mercy.jpeg" width="350" height="350" alt="ssozi">
-	      <p class="large-text only-tablet" align="justify">Hello,
-			<br>
-			My name is Gloria Mercy. I am a female electrical engineer from Uganda, East Africa. Before i graduated from Makerere University, i got a golden chance to be the 2012 SPEED scholarship recipient. 
-       	  <ul class="nav-list">
-           	<li><a href="gloria.php">Continue Reading...<span>&gt;</span></a></li>
-		  </ul>
-            </p>
-                        
+            </a></div>
+        <div data-role="content" data-theme="a" class="minus-shadow">
+          <div class="white-content-box"> </div>
+          
+          
+        <div class="white-content-box">
+		<h3>Landmarks</h3>
+		<p>The Public Clock Tower:</p>
+		<p style="text-align: justify"> The principal entrance of the old city of Cartagena de Indias is made by the tour of the Public Clock. At first, the clock tour had only one arch to enter, the middle one. Originally, the door had a weapon room and a chapel in the interior and was replaced by two other arches in the XVIII century. This construction was largely damaged during an enemy invasion. </p>
+		<p>&nbsp;</p>
+		<p>Castillo de San Felipe de Barajas: </p>
+		<p style="text-align: justify">The Castillo San Felipe de Barajas is a fortress in the city of Cartagena, Colombia. The castle is located on the Hill of San Lázaro in a strategic location, dominating approaches to the city by land or sea. It was built by the Spanish during the colonial era. Construction began in the year 1536, and it was originally known as the Castillo de San Lázaro, It was expanded in 1657.</p>
+        <p>&nbsp;</p>
+		<p>
+		  Cartagena Gold Museum: </p>
+		<p style="text-align: justify">It contains the most beautiful testimonial of the Zenú culture. Through its different rooms the visitor will be able to appreciate the manifestations of this indigenous group.The collection is made up of 538 gold work pieces, 61 ceramic pieces, 12 lithic pieces, 48 shell pieces and 6 bone pieces.</p>
+        
+        <p>&nbsp;</p>
+		<p>Palace of the Inquisition:</p> 
+        <p style="text-align: justify">A must-see destination in Cartagena, Colombia is the Museum of the Inquisition. As you enter in to the museum, you'll first see all the 'tests' the inquisitors used to ascertain if someone was a witch, including a list of the questions they asked. The accused was also weighed to see if he/she weighed an appropriate amount - which led to the deaths of many under/overweight people - and you'll see the scale they used.</p>
+		<p style="text-align: justify">The next room in the museum contains a display with lots of instruments of torture designed to bring out a 'confession' from the accused. As you wander around taking in all the devices, you can't help but wonder - What in the heck were they thinking?</p>
+        
+        <p>&nbsp;</p>
+        <p>Las Bóvedas: </p>
+        <p style="text-align: justify">The name has the word "Bovedas" in honor of the Military Vaults, the last military construction made in Cartagena de Indias by Antonio de Arevalo, an engineer in the XVIII Century; and "Santa Clara" because it is a neighbor of the ancient Saint Claire of Assisi Convent.Our hotel is diagonal to these sites.in the heck were they thinking?  Las Bóvedas: the name has the word "Bovedas" in honor of the Military Vaults, the last military construction made in Cartagena de Indias by Antonio de Arevalo, an engineer in the XVIII Century; and "Santa Clara" because it is a neighbor of the ancient Saint Claire of Assisi Convent.Our hotel is diagonal to these sites. </p>
+        
+        			<div class="clear"></div>
+		</div>
 
         
- <p class="large-text only-smartphones">Click to see the same page on tablet/desktop: <a href="index.php" target="_blank">Tablet view</a></p>
-		</div>
-	</div>
+           
+
+
+
+
+
+
+
+
+	    </div>
+          
+          
+          <div class="white-content-box">
+            <h3>&nbsp;</h3>
+          </div>
+          <div class="white-content-box"> </div>
+          
+          
+          
+    </div><!-- /content -->
+        
         
         <div class="clear"></div>
 <div data-role="footer">
     <div class="footer-actions">
-        <!--<a href="tel://971568899009" class="square-button">#</a>-->
+       <!--<a href="tel://971568899009" class="square-button">#</a>-->
         <a href="https://www.facebook.com/pages/SPEED-Student-Platform-for-Engineering-Education-Development/166731499492" class="square-button">f</a>
-        <!--<a href="http://www.worldspeed.org/portal" class="square-button">w</a>-->
+       <!--<a href="http://www.worldspeed.org/portal" class="square-button">w</a>-->
         <a class="square-button right back-trigger">BACK &laquo;</a>
         <div class="clear"></div>
     </div>
@@ -232,11 +221,3 @@
 </script>
 </body>
 </html>
-
-
-
-
-
-
-
-

@@ -2,6 +2,9 @@ package org.plugin.gcm;
 
 import java.util.Iterator;
 
+import org.apache.cordova.CordovaWebView;
+import org.apache.cordova.api.CallbackContext;
+import org.apache.cordova.api.CordovaPlugin;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -10,11 +13,7 @@ import android.content.Context;
 import android.os.Bundle;
 import android.util.Log;
 
-import org.apache.cordova.CordovaWebView;
-import org.apache.cordova.api.CallbackContext;
-import org.apache.cordova.api.CordovaPlugin;
-
-import com.google.android.gcm.*;
+import com.google.android.gcm.GCMRegistrar;
 
 /**
  * @author awysocki

@@ -36,10 +36,10 @@
 	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
 	<script src="js/jquery-ui-1.8.24.custom.min.js"></script>
 	
-	
-	
-	
 	<!-- PUSH NOTIFICATION SETUP STARTS HERE -->
+	<!--
+	
+	
 	
 	<script type="text/javascript" charset="utf-8" src="js/PushNotification.js"></script>
 	<script type="text/javascript" charset="utf-8" src="jquery_1.5.2.min.js"></script>
@@ -179,7 +179,7 @@
     	</div>
 		</div>
 	
-	
+	-->
 	
 	<!-- PUSH NOTIFICATION SETUP ENDS HERE -->
 	

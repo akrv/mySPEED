@@ -1,9 +1,9 @@
 package org.plugin.gcm;
 
+import static com.google.android.gcm.GCMConstants.DEFAULT_INTENT_SERVICE_CLASS_NAME;
 import android.content.Context;
 
 import com.google.android.gcm.GCMBroadcastReceiver;
-import static com.google.android.gcm.GCMConstants.DEFAULT_INTENT_SERVICE_CLASS_NAME;
 
 /*
  * Implementation of GCMBroadcastReceiver that hard-wires the intent service to be 

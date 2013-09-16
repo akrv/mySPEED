@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.speed.myspd;
+package org.worldspeed.mySPEED;
 
 public final class R {
     public static final class attr {

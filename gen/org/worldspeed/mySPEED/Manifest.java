@@ -5,10 +5,10 @@
  * should not be modified by hand.
  */
 
-package com.speed.myspd;
+package org.worldspeed.mySPEED;
 
 public final class Manifest {
     public static final class permission {
-        public static final String C2D_MESSAGE="org.worlspeed.mySPEED.permission.C2D_MESSAGE";
+        public static final String C2D_MESSAGE="org.worldspeed.mySPEED.permission.C2D_MESSAGE";
     }
 }

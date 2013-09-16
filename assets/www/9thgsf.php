@@ -152,7 +152,7 @@
         <br>
         
         <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=+&amp;q=cartagena,+colombia&amp;ie=UTF8&amp;hq=&amp;hnear=Cartagena,+Bolivar,+Colombia&amp;t=m&amp;z=11&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=+&amp;q=cartagena,+colombia&amp;ie=UTF8&amp;hq=&amp;hnear=Cartagena,+Bolivar,+Colombia&amp;t=m&amp;z=11&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small><br>
-        
+<!--        
 		<div data-role="collapsible-set" data-theme="a" data-content-theme="a" data-mini="true">
 			<div data-role="collapsible">
 				<h3>What is GSF?</h3>
@@ -168,7 +168,15 @@
 
 
 		  </div>
-		</div>
+		</div> -->
+        
+            <br>
+            <ul class="nav-list">
+                <li><a href="welcome_package.php">Welcome Package<span>&gt;</span></a></li>
+                <li><a href="9thgsf_schedule.php">Schedule<span>&gt;</span></a></li>
+                <li><a href="emergency.php">Emergency Contact Numbers<span>&gt;</span></a></li>
+            </ul>
+        
 	    </div>
           
           

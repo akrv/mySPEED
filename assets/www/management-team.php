@@ -171,7 +171,7 @@
 						<div class="left"><img src="images/delaine.jpg" width="235" height="300" alt="delaine"></div>
 						<div class="left">
 							<strong>President</strong>
-							<p align="justify"><strong>David Delaine,</strong> has a doctorate in electrical engineering from Drexel University in Philadelphia.  He has been active in SPEED since 2008 in many capacities, serving as Vice President on the inaugural SPEED executive committee. </p>
+							<p align="justify" style="text-align: left"><strong>David Delaine,</strong> has a doctorate in electrical engineering from Drexel University in Philadelphia.  He has been active in SPEED since 2008 in many capacities, serving as Vice President on the inaugural SPEED executive committee.</p>
 							<a href="#"><img src="images/twitter.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/facebook.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/linkedin.png" width="20" /></a>
@@ -182,8 +182,8 @@
 						<div class="left"><img src="images/300230_289121067784801_1774688828_n.jpg" width="235" height="300" alt="dinesh"></div>
 						<div class="left">
 							<strong>Vice President</strong>
-							<p align="justify"><strong>Dhinesh Balaji R,</strong> 24, is an Electrical Engineer from India. He is passionate about improving methods of energy production and utilization. He has been working and continuing to make engineering education a desire to many others.</p>
-							<a href="#"><img src="images/twitter.png" width="20" /></a>&nbsp;&nbsp;
+							<p align="justify"><strong style="text-align: left">Dhinesh Balaji R,</strong> 24, is an Electrical Engineer<span style="text-align: left"></span> from India. He is passionate about improving methods of energy production and utilization. </p>
+							<span style="text-align: left"><a href="#"></a></span><a href="#"><img src="images/twitter.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/facebook.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/linkedin.png" width="20" /></a>
 						</div>
@@ -193,7 +193,7 @@
 						<div class="left"><img src="images/aswinkarthik.jpg" width="235" height="300" alt="aswin"></div>
 						<div class="left">
 							<strong>External Affairs Officer</strong>
-							<p align="justify"><strong>Aswinkarthik R V,</strong> 21, an Electronics and Instrumentation Engineer from India is doing his Masters at TU Dortmund, Germany. He is very much passionate about Electronics, Robotics and Engineering.</p>
+							<p align="justify" style="text-align: left"><strong style="text-align: left">Aswinkarthik R V,</strong> 21, an Electronics and Instrumentation Engineer from India is doing his Masters at TU Dortmund, Germany. He is very much passionate about Electronics, Robotics and Engineering.</p>
 							<a href="#"><img src="images/twitter.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/facebook.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/linkedin.png" width="20" /></a>
@@ -205,7 +205,7 @@
                         <img src="images/487719_10151883609290062_2038335899_n.jpg" width="235" height="300" alt="martha"></div>
 						<div class="left">
 							<strong>Internal Affairs Officer</strong>
-							<p align="justify"><strong>Martha Cantu,</strong> 24, a Chemical Engineer from Monterrey Mexico is currently working at Germany. She is passionate about empowering people, building relationships and education. She is thrilled with the opportunity of being part of SPEED Executive Committee.</p>
+							<p align="justify" style="text-align: left"><strong>Martha Cantu,</strong> 24, a Chemical Engineer from Monterrey Mexico is currently working at Germany. She is passionate about empowering people, building relationships and education. She is thrilled with the opportunity of being part of SPEED Executive Committee.</p>
 							<a href="#"><img src="images/twitter.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/facebook.png" width="20" /></a>&nbsp;&nbsp;
 							<a href="#"><img src="images/linkedin.png" width="20" /></a>

@@ -1,31 +1,73 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399181337890" remote="130107399180000000" />
-<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399182851562" remote="130107399180000000" />
-<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/Users/Rakesh/Rake Site/" local="130107399183251953" remote="130107399180000000" />
-<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/Users/Rakesh/Rake Site/" local="130107399184804687" remote="130107399180000000" />
-<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/Users/Rakesh/Rake Site/" local="130107399185537109" remote="130107399180000000" />
-<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399188037109" remote="130107399180000000" />
-<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/Users/Rakesh/Rake Site/" local="130107399188603515" remote="130107399180000000" />
-<file name="ui-icons_222222_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399190468750" remote="130107399190000000" />
-<file name="ui-icons_ffffff_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399190537109" remote="130107399190000000" />
-<file name="ui-icons_ef8c08_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399192548828" remote="130107399190000000" />
-<file name="ui-icons_228ef1_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399193144531" remote="130107399190000000" />
-<file name="ui-icons_ffd27a_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399194794921" remote="130107399190000000" />
-<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/Users/Rakesh/Rake Site/" local="130107399195312500" remote="130107399190000000" />
-<file name="ui-bg_flat_10_000000_40x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399197919921" remote="130107399190000000" />
-<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/wamp/www/SPEED/" local="130107399181337890" remote="130107399180000000" />
-<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/wamp/www/SPEED/" local="130107399182851562" remote="130107399180000000" />
-<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/wamp/www/SPEED/" local="130107399183251953" remote="130107399180000000" />
-<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/wamp/www/SPEED/" local="130107399184804687" remote="130107399180000000" />
-<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/wamp/www/SPEED/" local="130107399185537109" remote="130107399180000000" />
-<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/wamp/www/SPEED/" local="130107399188037109" remote="130107399180000000" />
-<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/wamp/www/SPEED/" local="130107399188603515" remote="130107399180000000" />
-<file name="ui-icons_222222_256x240.png" server="C:/wamp/www/SPEED/" local="130107399190468750" remote="130107399190000000" />
-<file name="ui-icons_ffffff_256x240.png" server="C:/wamp/www/SPEED/" local="130107399190537109" remote="130107399190000000" />
-<file name="ui-icons_ef8c08_256x240.png" server="C:/wamp/www/SPEED/" local="130107399192548828" remote="130107399190000000" />
-<file name="ui-icons_228ef1_256x240.png" server="C:/wamp/www/SPEED/" local="130107399193144531" remote="130107399190000000" />
-<file name="ui-icons_ffd27a_256x240.png" server="C:/wamp/www/SPEED/" local="130107399194794921" remote="130107399190000000" />
-<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/wamp/www/SPEED/" local="130107399195312500" remote="130107399190000000" />
-<file name="ui-bg_flat_10_000000_40x100.png" server="C:/wamp/www/SPEED/" local="130107399197919921" remote="130107399190000000" />
+<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399181337890" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399182851562" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/Users/Rakesh/Rake Site/" local="130107399183251953" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/Users/Rakesh/Rake Site/" local="130107399184804687" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/Users/Rakesh/Rake Site/" local="130107399185537109" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399188037109" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/Users/Rakesh/Rake Site/" local="130107399188603515" remote="130107399180000000" Dst="-1" />
+<file name="ui-icons_222222_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399190468750" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_ffffff_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399190537109" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_ef8c08_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399192548828" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_228ef1_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399193144531" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_ffd27a_256x240.png" server="C:/Users/Rakesh/Rake Site/" local="130107399194794921" remote="130107399190000000" Dst="-1" />
+<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/Users/Rakesh/Rake Site/" local="130107399195312500" remote="130107399190000000" Dst="-1" />
+<file name="ui-bg_flat_10_000000_40x100.png" server="C:/Users/Rakesh/Rake Site/" local="130107399197919921" remote="130107399190000000" Dst="-1" />
+<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/wamp/www/SPEED/" local="130107399181337890" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/wamp/www/SPEED/" local="130107399182851562" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/wamp/www/SPEED/" local="130107399183251953" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/wamp/www/SPEED/" local="130107399184804687" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/wamp/www/SPEED/" local="130107399185537109" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/wamp/www/SPEED/" local="130107399188037109" remote="130107399180000000" Dst="-1" />
+<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/wamp/www/SPEED/" local="130107399188603515" remote="130107399180000000" Dst="-1" />
+<file name="ui-icons_222222_256x240.png" server="C:/wamp/www/SPEED/" local="130107399190468750" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_ffffff_256x240.png" server="C:/wamp/www/SPEED/" local="130107399190537109" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_ef8c08_256x240.png" server="C:/wamp/www/SPEED/" local="130107399192548828" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_228ef1_256x240.png" server="C:/wamp/www/SPEED/" local="130107399193144531" remote="130107399190000000" Dst="-1" />
+<file name="ui-icons_ffd27a_256x240.png" server="C:/wamp/www/SPEED/" local="130107399194794921" remote="130107399190000000" Dst="-1" />
+<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/wamp/www/SPEED/" local="130107399195312500" remote="130107399190000000" Dst="-1" />
+<file name="ui-bg_flat_10_000000_40x100.png" server="C:/wamp/www/SPEED/" local="130107399197919921" remote="130107399190000000" Dst="-1" />
+<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/wamp/www" local="130203563896190221" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/wamp/www" local="130203563896170222" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/wamp/www" local="130203563896090215" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/wamp/www" local="130203563896120223" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/wamp/www" local="130203563896140237" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/wamp/www" local="130203563896230234" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/wamp/www" local="130203563896010213" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_222222_256x240.png" server="C:/wamp/www" local="130203563896250243" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ffffff_256x240.png" server="C:/wamp/www" local="130203563896320245" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ef8c08_256x240.png" server="C:/wamp/www" local="130203563896290237" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_228ef1_256x240.png" server="C:/wamp/www" local="130203563896270237" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ffd27a_256x240.png" server="C:/wamp/www" local="130203563896300251" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/wamp/www" local="130203563896040212" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_flat_10_000000_40x100.png" server="C:/wamp/www" local="130203563896060230" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/wamp/www/" local="130203563896190221" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/wamp/www/" local="130203563896170222" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/wamp/www/" local="130203563896090215" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/wamp/www/" local="130203563896120223" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/wamp/www/" local="130203563896140237" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/wamp/www/" local="130203563896230234" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/wamp/www/" local="130203563896010213" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_222222_256x240.png" server="C:/wamp/www/" local="130203563896250243" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ffffff_256x240.png" server="C:/wamp/www/" local="130203563896320245" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ef8c08_256x240.png" server="C:/wamp/www/" local="130203563896290237" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_228ef1_256x240.png" server="C:/wamp/www/" local="130203563896270237" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ffd27a_256x240.png" server="C:/wamp/www/" local="130203563896300251" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/wamp/www/" local="130203563896040212" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_flat_10_000000_40x100.png" server="C:/wamp/www/" local="130203563896060230" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_highlight-soft_100_eeeeee_1x100.png" server="C:/wamp/www/mySPEED/" local="130203563896190221" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_gloss-wave_35_f6a828_500x100.png" server="C:/wamp/www/mySPEED/" local="130203563896170222" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_100_f6f6f6_1x400.png" server="C:/wamp/www/mySPEED/" local="130203563896090215" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_100_fdf5ce_1x400.png" server="C:/wamp/www/mySPEED/" local="130203563896120223" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_glass_65_ffffff_1x400.png" server="C:/wamp/www/mySPEED/" local="130203563896140237" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_highlight-soft_75_ffe45c_1x100.png" server="C:/wamp/www/mySPEED/" local="130203563896230234" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_diagonals-thick_18_b81900_40x40.png" server="C:/wamp/www/mySPEED/" local="130203563896010213" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_222222_256x240.png" server="C:/wamp/www/mySPEED/" local="130203563896250243" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ffffff_256x240.png" server="C:/wamp/www/mySPEED/" local="130203563896320245" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ef8c08_256x240.png" server="C:/wamp/www/mySPEED/" local="130203563896290237" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_228ef1_256x240.png" server="C:/wamp/www/mySPEED/" local="130203563896270237" remote="130203563890000000" Dst="0" />
+<file name="ui-icons_ffd27a_256x240.png" server="C:/wamp/www/mySPEED/" local="130203563896300251" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_diagonals-thick_20_666666_40x40.png" server="C:/wamp/www/mySPEED/" local="130203563896040212" remote="130203563890000000" Dst="0" />
+<file name="ui-bg_flat_10_000000_40x100.png" server="C:/wamp/www/mySPEED/" local="130203563896060230" remote="130203563890000000" Dst="0" />
 </dwsync>

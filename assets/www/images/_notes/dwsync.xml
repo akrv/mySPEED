@@ -1,24 +1,72 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="bg_direction_nav.png" server="C:/Users/Rakesh/Rake Site/" local="130107399203632812" remote="130107399200000000" />
-<file name="loader.gif" server="C:/Users/Rakesh/Rake Site/" local="130107399205644531" remote="130107399200000000" />
-<file name="icons.png" server="C:/Users/Rakesh/Rake Site/" local="130107399207880859" remote="130107399200000000" />
-<file name="texture2.png" server="C:/Users/Rakesh/Rake Site/" local="130107399215351562" remote="130107399210000000" />
-<file name="shadow.png" server="C:/Users/Rakesh/Rake Site/" local="130107399213261718" remote="130107399210000000" />
-<file name="magnifier.png" server="C:/Users/Rakesh/Rake Site/" local="130107399243613281" remote="130107399240000000" />
-<file name="phone-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399086894531" remote="130107399080000000" />
-<file name="callout.png" server="C:/Users/Rakesh/Rake Site/" local="130107399180732421" remote="130107399180000000" />
-<file name="bg_direction_nav.png" server="C:/wamp/www/SPEED/" local="130107399203632812" remote="130107399200000000" />
-<file name="loader.gif" server="C:/wamp/www/SPEED/" local="130107399205644531" remote="130107399200000000" />
-<file name="icons.png" server="C:/wamp/www/SPEED/" local="130107399207880859" remote="130107399200000000" />
-<file name="texture2.png" server="C:/wamp/www/SPEED/" local="130107399215351562" remote="130107399210000000" />
-<file name="shadow.png" server="C:/wamp/www/SPEED/" local="130107399213261718" remote="130107399210000000" />
-<file name="magnifier.png" server="C:/wamp/www/SPEED/" local="130107399243613281" remote="130107399240000000" />
-<file name="phone-icon.png" server="C:/wamp/www/SPEED/" local="130107399086894531" remote="130107399080000000" />
-<file name="callout.png" server="C:/wamp/www/SPEED/" local="130107399180732421" remote="130107399180000000" />
-<file name="logo_buld.png" server="C:/wamp/www/SPEED/" local="130174271861649258" remote="130174271860000000" />
-<file name="twitter.png" server="C:/wamp/www/SPEED/" local="130107399396357421" remote="130107399390000000" />
-<file name="facebook.png" server="C:/wamp/www/SPEED/" local="130107399396718750" remote="130107399390000000" />
-<file name="linkedin.png" server="C:/wamp/www/SPEED/" local="130107399397050781" remote="130107399390000000" />
-<file name="javie.jpg" server="C:/wamp/www/SPEED/" local="130193194044884244" remote="130193194040000000" />
+<file name="bg_direction_nav.png" server="C:/Users/Rakesh/Rake Site/" local="130107399203632812" remote="130107399200000000" Dst="-1" />
+<file name="loader.gif" server="C:/Users/Rakesh/Rake Site/" local="130107399205644531" remote="130107399200000000" Dst="-1" />
+<file name="icons.png" server="C:/Users/Rakesh/Rake Site/" local="130107399207880859" remote="130107399200000000" Dst="-1" />
+<file name="texture2.png" server="C:/Users/Rakesh/Rake Site/" local="130107399215351562" remote="130107399210000000" Dst="-1" />
+<file name="shadow.png" server="C:/Users/Rakesh/Rake Site/" local="130107399213261718" remote="130107399210000000" Dst="-1" />
+<file name="magnifier.png" server="C:/Users/Rakesh/Rake Site/" local="130107399243613281" remote="130107399240000000" Dst="-1" />
+<file name="phone-icon.png" server="C:/Users/Rakesh/Rake Site/" local="130107399086894531" remote="130107399080000000" Dst="-1" />
+<file name="callout.png" server="C:/Users/Rakesh/Rake Site/" local="130107399180732421" remote="130107399180000000" Dst="-1" />
+<file name="bg_direction_nav.png" server="C:/wamp/www/SPEED/" local="130107399203632812" remote="130107399200000000" Dst="-1" />
+<file name="loader.gif" server="C:/wamp/www/SPEED/" local="130107399205644531" remote="130107399200000000" Dst="-1" />
+<file name="icons.png" server="C:/wamp/www/SPEED/" local="130107399207880859" remote="130107399200000000" Dst="-1" />
+<file name="texture2.png" server="C:/wamp/www/SPEED/" local="130107399215351562" remote="130107399210000000" Dst="-1" />
+<file name="shadow.png" server="C:/wamp/www/SPEED/" local="130107399213261718" remote="130107399210000000" Dst="-1" />
+<file name="magnifier.png" server="C:/wamp/www/SPEED/" local="130107399243613281" remote="130107399240000000" Dst="-1" />
+<file name="phone-icon.png" server="C:/wamp/www/SPEED/" local="130107399086894531" remote="130107399080000000" Dst="-1" />
+<file name="callout.png" server="C:/wamp/www/SPEED/" local="130107399180732421" remote="130107399180000000" Dst="-1" />
+<file name="logo_buld.png" server="C:/wamp/www/SPEED/" local="130174271861649258" remote="130174271860000000" Dst="-1" />
+<file name="twitter.png" server="C:/wamp/www/SPEED/" local="130107399396357421" remote="130107399390000000" Dst="-1" />
+<file name="facebook.png" server="C:/wamp/www/SPEED/" local="130107399396718750" remote="130107399390000000" Dst="-1" />
+<file name="linkedin.png" server="C:/wamp/www/SPEED/" local="130107399397050781" remote="130107399390000000" Dst="-1" />
+<file name="javie.jpg" server="C:/wamp/www/SPEED/" local="130193194044884244" remote="130193194040000000" Dst="-1" />
+<file name="bg_direction_nav.png" server="C:/wamp/www" local="130203563906770092" remote="130203563900000000" Dst="0" />
+<file name="loader.gif" server="C:/wamp/www" local="130203563908710327" remote="130203563900000000" Dst="0" />
+<file name="icons.png" server="C:/wamp/www" local="130203563907880254" remote="130203563900000000" Dst="0" />
+<file name="icons@2x.png" server="C:/wamp/www" local="130203563908640334" remote="130203563900000000" Dst="0" />
+<file name="texture2.png" server="C:/wamp/www" local="130203563910508952" remote="130203563910000000" Dst="0" />
+<file name="shadow.png" server="C:/wamp/www" local="130203563910338924" remote="130203563910000000" Dst="0" />
+<file name="magnifier.png" server="C:/wamp/www" local="130203563908750330" remote="130203563900000000" Dst="0" />
+<file name="logo_buld.png" server="C:/wamp/www" local="130203563908730331" remote="130203563900000000" Dst="0" />
+<file name="bg_direction_nav.png" server="C:/wamp/www/" local="130203563906770092" remote="130203563900000000" Dst="0" />
+<file name="loader.gif" server="C:/wamp/www/" local="130203563908710327" remote="130203563900000000" Dst="0" />
+<file name="icons.png" server="C:/wamp/www/" local="130203563907880254" remote="130203563900000000" Dst="0" />
+<file name="icons@2x.png" server="C:/wamp/www/" local="130203563908640334" remote="130203563900000000" Dst="0" />
+<file name="texture2.png" server="C:/wamp/www/" local="130203563910508952" remote="130203563910000000" Dst="0" />
+<file name="shadow.png" server="C:/wamp/www/" local="130203563910338924" remote="130203563910000000" Dst="0" />
+<file name="magnifier.png" server="C:/wamp/www/" local="130203563908750330" remote="130203563900000000" Dst="0" />
+<file name="logo_buld.png" server="C:/wamp/www/" local="130203563908730331" remote="130203563900000000" Dst="0" />
+<file name="300230_289121067784801_1774688828_n.jpg" server="C:/wamp/www/" local="130203563906090252" remote="130203563900000000" Dst="0" />
+<file name="487719_10151883609290062_2038335899_n.jpg" server="C:/wamp/www/" local="130203563906130228" remote="130203563900000000" Dst="0" />
+<file name="9thgsf.png" server="C:/wamp/www/" local="130203563906170241" remote="130203563900000000" Dst="0" />
+<file name="airbus.png" server="C:/wamp/www/" local="130203563906366431" remote="130203563900000000" Dst="0" />
+<file name="asee.jpg" server="C:/wamp/www/" local="130203563906406440" remote="130203563900000000" Dst="0" />
+<file name="aswinkarthik.jpg" server="C:/wamp/www/" local="130203563906730093" remote="130203563900000000" Dst="0" />
+<file name="bc-separator.png" server="C:/wamp/www/" local="130203563906750078" remote="130203563900000000" Dst="0" />
+<file name="callout.png" server="C:/wamp/www/" local="130203563906780101" remote="130203563900000000" Dst="0" />
+<file name="dassault.jpg" server="C:/wamp/www/" local="130203563907760206" remote="130203563900000000" Dst="0" />
+<file name="delaine.jpg" server="C:/wamp/www/" local="130203563907820223" remote="130203563900000000" Dst="0" />
+<file name="facebook.png" server="C:/wamp/www/" local="130203563907840218" remote="130203563900000000" Dst="0" />
+<file name="hp.png" server="C:/wamp/www/" local="130203563907870222" remote="130203563900000000" Dst="0" />
+<file name="ifees.gif" server="C:/wamp/www/" local="130203563908650343" remote="130203563900000000" Dst="0" />
+<file name="javie.jpg" server="C:/wamp/www/" local="130203563908670342" remote="130203563900000000" Dst="0" />
+<file name="linkedin.png" server="C:/wamp/www/" local="130203563908690327" remote="130203563900000000" Dst="0" />
+<file name="mercy.jpeg" server="C:/wamp/www/" local="130203563908780339" remote="130203563900000000" Dst="0" />
+<file name="phone-icon.png" server="C:/wamp/www/" local="130203563908800357" remote="130203563900000000" Dst="0" />
+<file name="quanser.gif" server="C:/wamp/www/" local="130203563910248932" remote="130203563910000000" Dst="0" />
+<file name="quanser.jpg" server="C:/wamp/www/" local="130203563910318925" remote="130203563910000000" Dst="0" />
+<file name="SBA_logo.png" server="C:/wamp/www/" local="130203563906196357" remote="130203563900000000" Dst="0" />
+<file name="transparent-white.png" server="C:/wamp/www/" local="130203563910538955" remote="130203563910000000" Dst="0" />
+<file name="twitter-color.png" server="C:/wamp/www/" local="130203563910588959" remote="130203563910000000" Dst="0" />
+<file name="twitter.png" server="C:/wamp/www/" local="130203563910608958" remote="130203563910000000" Dst="0" />
+<file name="wnso_logo.jpg" server="C:/wamp/www/" local="130203563910638971" remote="130203563910000000" Dst="0" />
+<file name="bg_direction_nav.png" server="C:/wamp/www/mySPEED/" local="130203563906770092" remote="130203563900000000" Dst="0" />
+<file name="loader.gif" server="C:/wamp/www/mySPEED/" local="130203563908710327" remote="130203563900000000" Dst="0" />
+<file name="icons.png" server="C:/wamp/www/mySPEED/" local="130203563907880254" remote="130203563900000000" Dst="0" />
+<file name="icons@2x.png" server="C:/wamp/www/mySPEED/" local="130203563908640334" remote="130203563900000000" Dst="0" />
+<file name="texture2.png" server="C:/wamp/www/mySPEED/" local="130203563910508952" remote="130203563910000000" Dst="0" />
+<file name="shadow.png" server="C:/wamp/www/mySPEED/" local="130203563910338924" remote="130203563910000000" Dst="0" />
+<file name="magnifier.png" server="C:/wamp/www/mySPEED/" local="130203563908750330" remote="130203563900000000" Dst="0" />
+<file name="logo_buld.png" server="C:/wamp/www/mySPEED/" local="130203563908730331" remote="130203563900000000" Dst="0" />
 </dwsync>
